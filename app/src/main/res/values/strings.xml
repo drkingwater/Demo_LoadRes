@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppPlugin</string>
+    <string name="test_str">原本的数据</string>
+</resources>
